@@ -1,0 +1,30 @@
+body,h1{
+    background-color: burlywood;
+    color:cadetblue
+}
+h1{
+    background-color: darkgray;
+}
+img{
+    width: 36px;
+    position: absolute;
+    right: 19px;
+    top: 20px;
+}
+.abc{
+     width: 36px;
+    position: absolute;
+    right: 60px;
+    top: 21px;
+}
+.def{
+    width: 36px;
+    position: absolute;
+    right: 100px;
+    top: 21px;
+}
+.ghi{
+    padding:0px 5px 200px 0px;
+    position: fixed;
+}
+
